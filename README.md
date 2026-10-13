@@ -1,26 +1,22 @@
-\# GymSmartTracker
+# GymSmartTracker
 
+A full-stack web application for tracking gym workouts,
+progressive overload, body weight, and nutrition goals.
 
+## Planned Features
+- User registration and login
+- Workout logging (exercises, sets, reps, weights)
+- Strength progression charts
+- Maintenance calorie calculator
+- Cutting and lean bulking goal selection
+- Weekly weight tracking
+- Smart calorie adjustment recommendations
 
-A gym progress tracker built with React, Node.js, Express, and MySQL.
+## Tech Stack
+- Frontend: React
+- Backend: Node.js + Express
+- Database: MySQL
+- Version Control: Git + GitHub
 
-
-
-\## Planned features
-
-
-
-\- Log exercises, sets, reps, and weights
-
-\- Visualize strength progression
-
-\- Track body weight and nutrition goals
-
-
-
-\## Status
-
-
-
-Initial project setup.
-
+## Project Status
+In development.
